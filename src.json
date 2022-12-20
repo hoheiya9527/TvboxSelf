@@ -1,12 +1,10 @@
 {"spider":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/jar/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
-/*------直播资源页--------START----*/
 "lives":[{"name":"综合一","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"YouTube","type":0,"url":"https://agit.ai/chuqiuyu/YouTube_to_m3u/raw/branch/main/youtube.m3u"},
 {"name":"MV","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/MV.txt"}],
 "rules":[{"host":"www.6080dy1.com","rule":["m3u8.php",".m3u8"]},
-/*------直播资源页--------END----*/
 {"host":"*","rule":["default.365yg.com"]},
 {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
 {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]},
@@ -15,7 +13,6 @@
 {"host":"*","rule":["douyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"]}],
-/*------搜索站点资源页-----START----*/
 "sites":[{
 {"key":"drpy_js_豆瓣","name":"豆瓣[DRPY]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/js/drpy.js"},
 "key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -43,15 +40,12 @@
 {"key":"csp_xbb_umkan","name":"umkan（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/json/umkan.json"},
 {"key":"饭团影视","name":"饭团影视（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/json/ftys.json"},
 {"key":"蓝光影院XB","name":"蓝光（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/json/lgyy.json"},
-/*------搜索站点资源页--------END------*/
-/*------搜索网盘资源页--------START----*/
 {"key":"csp_LocalFile","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/tok;asc"},
 {"key":"upyunsou","name":"Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://ali.xn--sss604efuw.ml/tok;asc"},
 {"key":"yisou","name":"宜搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://ali.xn--sss604efuw.ml/tok;asc"},
 {"key":"AliPS","name":"AliPS","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/tok;asc"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/tok;desc"}],
-/*------搜索网盘资源页--------END------*/
 "parses":[{"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
