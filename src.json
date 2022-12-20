@@ -1,4 +1,6 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/jar/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
+{
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/jar/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/jar/tvbox.png;md5;808da8066ef19ba41dc4966f588e938d",
 "lives":[{"name":"综合一","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
