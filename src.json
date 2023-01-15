@@ -24,6 +24,7 @@
 {"key":"XPF-人人影视","name":"人人影视（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/json/人人影视.json"},
 {"key":"csp_xbb_umkan","name":"umkan（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/json/umkan.json"},
 {"key":"蓝光影院XB","name":"蓝光（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/json/lgyy.json"},
+{"key":"csp_biubiu_宝仙HD","name":"宝仙（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/json/宝仙HD.json"},
 //{"key":"csp_Vofl","name":"Voflix","type":3,"api":"csp_Voflix","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Lib","name": "Lib","type": 3,"api": "csp_Lib","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
