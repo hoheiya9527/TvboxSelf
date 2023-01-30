@@ -5,7 +5,8 @@
 //{"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 //{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 //{"name":"YouTube","type":0,"url":"https://agit.ai/chuqiuyu/YouTube_to_m3u/raw/branch/main/youtube.m3u"},
-//{"name":"MV","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/MV.txt"}],
+//{"name":"MV","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/gao/master/MV.txt"}
+],
 
 //"lives": [{
 //    "group": "redirect",
