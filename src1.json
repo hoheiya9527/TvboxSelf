@@ -5,12 +5,6 @@
 
 "sites":[
 {"key":"js¶¹°ê","name":"??¶¹°ê©§Ð¡·¹ÍÆ¼öÊ×Ò³","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"csp_XYQ_lu1","name":"??µçÊÓ©§Ö±²¥","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cdn.·¹Ì«Ó².ga/x/XYQ/µçÊÓÖ±²¥.json"},
-{"key":"csp_Alist1","name":"??Alist©§ÍøÅÌ","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://cdn.·¹Ì«Ó².ga/x/json/alist.json"},
-{"key":"csp_Alist2","name":"??Ð¡Ñ¾©§ËÑË÷","type":3,"api":"https://ftyyy.tk/JS/lib/alist.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
-{"key":"csp_Bili","name":"??ßÙÁ¨©§ºÏ¼¯","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"ext":"http://cdn.·¹Ì«Ó².ga/x/json/bilibili.json"},
-{"key":"csp_Biliych","name":"??ßÙÁ¨©§ÑÝ³ª»á","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"ext":"http://cdn.·¹Ì«Ó².ga/x/json/biliych.json"},
-
 {"key":"csp_Paper","name":"??Ö½Ìõ©§4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.·¹Ì«Ó².ml/nn"},
 {"key":"Zhaozy","name":"??ÕÒ×ÊÔ´©§ËÑ4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://ali.·¹Ì«Ó².ml/nn$$$xxooo$$$qq112233"},
 {"key":"csp_kuaikan","name":"??¿ì¿´©§SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
