@@ -9,7 +9,7 @@
 {"key":"js豆瓣","name":"豆瓣推荐","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
+{"key":"csp_AppTT","name":"图图SP","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key":"csp_apple","name":"苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"BTtwo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
