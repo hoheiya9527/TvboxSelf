@@ -18,9 +18,9 @@
 {"key":"csp_Yht","name":"野荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 
 
-{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/token.txt"},
-{"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/token.txt"},
-{"key":"UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/token.txt"}],
+{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ali_tk"},
+{"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ali_tk"},
+{"key":"UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ali_tk"}],
 
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
