@@ -1,6 +1,6 @@
 {
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;eb433f3b00e991e6ba6509cffc99672c",
-"wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
+"wallpaper":"hhttps://agit.ai/cacifer/xyz/raw/branch/master/wallpaper.png",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0"]}]}],
 "lives":[{"name":"综合一","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
@@ -18,9 +18,9 @@
 {"key":"csp_Yht","name":"野荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 
 
-{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ali_tk"},
-{"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ali_tk"},
-{"key":"UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ali_tk"}],
+{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/token.txt"},
+{"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/token.txt"},
+{"key":"UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/token.txt"}],
 
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
