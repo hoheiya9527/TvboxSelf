@@ -6,8 +6,7 @@
 
 "sites":[
 //{"key": "douban","name": "豆瓣榜单","type": 4,"api": "https://t4.xn--sss604efuw.ml/vod","searchable": 0,"quickSearch": 1,"filterable": 0},
-{"key":"js豆瓣","name":"豆瓣推荐","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-
+{"key":"豆瓣推荐","name":"豆瓣推荐","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable":0,"quickSearch":0,"filterable":1},
 
 {"key":"csp_kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
