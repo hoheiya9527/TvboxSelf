@@ -52,18 +52,27 @@ CGTN英语,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212257
 
 
 央视|频道,#genre#
-CCTV13 新闻,http://111.20.33.70/TVOD/88888893/224/3221226233/index.m3u8
-CCTV13 新闻,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
-CCTV-1 综合,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
-CCTV-1 综合,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?
-CCTV-1 综合,http://39.135.137.205/PLTV/88888888/224/3221225816/1.m3u8
-CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
-CCTV-1 综合,http://39.136.48.18:8089/PLTV/88888888/224/3221225859/index.m3u8
-CCTV-1 综合,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?
-CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
-CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
-CCTV-1 综合,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+
+CCTV1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?
+CCTV1,http://39.135.137.205/PLTV/88888888/224/3221225816/1.m3u8
+CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://39.136.48.18:8089/PLTV/88888888/224/3221225859/index.m3u8
+CCTV1,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
+CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://111.20.33.93/TVOD/88888888/224/3221225804/index.m3u8
+CCTV1,http://111.20.33.93/TVOD/88888888/224/3221225783/index.m3u8
+CCTV1,http://111.20.33.93/TVOD/88888888/224/3221225660/index.m3u8
+CCTV1,http://111.20.33.70/TVOD/88888893/224/3221226010/index.m3u8
+CCTV1,http://111.20.33.70/TVOD/88888893/224/3221226231/index.m3u8
+CCTV1,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8
+CCTV1,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/2300.m3u8
+CCTV1,http://39.134.115.163:8080/TVOD/88888910/224/3221225642/index.m3u8
+CCTV1,http://39.134.115.163:8080/TVOD/88888910/224/3221225618/index.m3u8
+CCTV1,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV2,http://117.169.121.162:6610/PLTV/88888910/224/3221225619/index.m3u8
 CCTV2,http://111.20.33.70/TVOD/88888893/224/3221226224/index.m3u8
 CCTV2,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
@@ -116,16 +125,6 @@ CCTV8,http://39.134.115.163:8080/TVOD/88888910/224/3221225624/index.m3u8
 CCTV8,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
 CGTN,http://111.20.33.93/TVOD/88888888/224/3221225745/index.m3u8
 CGTN,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel15/index.m3u8
-CCTV1,http://111.20.33.93/TVOD/88888888/224/3221225804/index.m3u8
-CCTV1,http://111.20.33.93/TVOD/88888888/224/3221225783/index.m3u8
-CCTV1,http://111.20.33.93/TVOD/88888888/224/3221225660/index.m3u8
-CCTV1,http://111.20.33.70/TVOD/88888893/224/3221226010/index.m3u8
-CCTV1,http://111.20.33.70/TVOD/88888893/224/3221226231/index.m3u8
-CCTV1,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8
-CCTV1,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/2300.m3u8
-CCTV1,http://39.134.115.163:8080/TVOD/88888910/224/3221225642/index.m3u8
-CCTV1,http://39.134.115.163:8080/TVOD/88888910/224/3221225618/index.m3u8
-CCTV1,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV9,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/2300.m3u8
 CCTV9,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
 CCTV10,http://117.169.121.162:6610/PLTV/88888910/224/3221225636/index.m3u8
@@ -144,6 +143,8 @@ CCTV12,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
 CCTV13,http://111.20.33.70/TVOD/88888893/224/3221226233/index.m3u8
 CCTV13,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
 CCTV13,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV13,http://111.20.33.70/TVOD/88888893/224/3221226233/index.m3u8
+CCTV13,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3
 CCTV14,http://111.20.33.93/TVOD/88888888/224/3221225784/index.m3u8
 CCTV14,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 CCTV15,http://111.20.33.93/TVOD/88888888/224/3221225785/index.m3u8
@@ -163,14 +164,14 @@ CCTV发现之旅,http://111.20.33.70/TVOD/88888893/224/3221226235/index.m3u8
 CCTV时尚,http://111.20.33.70/TVOD/88888893/224/3221226237/index.m3u8
 CCTV16,http://111.20.33.70/TVOD/88888893/224/3221226921/index.m3u8
 CCTV16,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
-CCTV-5+,http://39.135.138.59:18890/TVOD/88888910/224/3221225706/index.m3u8
-CCTV-6电影,http://39.135.138.59:18890/TVOD/88888910/224/3221225632/index.m3u8
-CCTV-7国防军事,http://39.135.138.59:18890/TVOD/88888910/224/3221225644/index.m3u8
-CCTV-9纪录,http://39.135.138.59:18890/TVOD/88888910/224/3221225646/index.m3u8
-CCTV-11戏曲,http://39.135.138.59:18890/TVOD/88888910/224/3221225628/index.m3u8
-CCTV-13新闻,http://39.135.138.59:18890/TVOD/88888910/224/3221225638/index.m3u8
-CCTV-14少儿,http://39.135.138.59:18890/TVOD/88888910/224/3221225639/index.m3u8
-CCTV-15音乐,http://39.135.138.59:18890/TVOD/88888910/224/3221225641/index.m3u8
+CCTV5+,http://39.135.138.59:18890/TVOD/88888910/224/3221225706/index.m3u8
+CCTV6电影,http://39.135.138.59:18890/TVOD/88888910/224/3221225632/index.m3u8
+CCTV7国防军事,http://39.135.138.59:18890/TVOD/88888910/224/3221225644/index.m3u8
+CCTV9纪录,http://39.135.138.59:18890/TVOD/88888910/224/3221225646/index.m3u8
+CCTV11戏曲,http://39.135.138.59:18890/TVOD/88888910/224/3221225628/index.m3u8
+CCTV13新闻,http://39.135.138.59:18890/TVOD/88888910/224/3221225638/index.m3u8
+CCTV14少儿,http://39.135.138.59:18890/TVOD/88888910/224/3221225639/index.m3u8
+CCTV15音乐,http://39.135.138.59:18890/TVOD/88888910/224/3221225641/index.m3u8
 CCTV16 4K,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012492303.m3u8
 CCTV4K,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 CGTN英闻,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
@@ -406,8 +407,8 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8
-CCTV-13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-CCTV-13新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 
 凤凰|频道,#genre#
 
@@ -517,7 +518,7 @@ TVBS新闻-02,rtmp://219.80.97.35/sat/tv551
 少儿|频道,#genre#
 
 14台少儿,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
-14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
+14台少儿,http://123.6.9.146/live/jz-CCTV14/live.m3u8?zyangd
 14台少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225784/1.m3u8?zyangd
 北京卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
 大连少儿,rtmp://secret.dltv.cn/dreamStreamCore/q6tZ6Ba/lv500?p?zliaond
