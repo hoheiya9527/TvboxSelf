@@ -1,5 +1,5 @@
 {
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;687223923442374b0ccb5e3a61b8b1a9",
 "wallpaper":"hhttps://agit.ai/cacifer/xyz/raw/branch/master/wallpaper.png",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0"]}]}],
 //"lives":[{"name":"综合一","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/lives.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
@@ -10,15 +10,15 @@
 {"key": "douban","name": "豆瓣榜单","type": 4,"api": "https://t4.xn--sss604efuw.ml/vod","searchable": 0,"quickSearch": 1,"filterable": 0},
 
 {"key":"csp_kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-{"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
-{"key":"csp_Bttoo","name":"BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+{"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+{"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
+{"key":"csp_Bttoo","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6080dy3.com"},
 
-
-{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/hoheiya/tvbox/raw/master/ali"},
-{"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/hoheiya/tvbox/raw/master/ali"},
-{"key":"UpYun","name":"Up搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/hoheiya/tvbox/raw/master/ali"}],
+{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"}
+],
 
 "parses":[
 {"name":"聚合1","type":3,"url":"Demo"},
