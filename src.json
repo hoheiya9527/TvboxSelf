@@ -26,6 +26,14 @@
             "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
             "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
         },
+				{
+			"key": "奇优",
+			"name": "解析-奇优",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": "1",
+			"ext": "http://xhww.fun:63/小米/源/奇优.json"
+		},
         {
             "key": "yaya",
             "name": "️解析-鸭鸭",
@@ -39,6 +47,32 @@
                 "分类": "电影$20#连续剧$26#美剧$21#日韩$28#动漫$25"
             }
         },
+		{
+			"key": "看看",
+			"name": "解析-看看",
+			"type": 3,
+			"playerType": "1",
+			"changeable": 0,
+			"api": "csp_XBPQ",
+			"ext": {
+				"主页url": "https://kankanju.cc",
+				"请求头": "Cookie$filter_robot_tt=301",
+				"播放请求头": "User-Agent$Dalvik/2.1.0 (Linux; U; Android 13; 22127RK46C Build/TKQ1.220905.001)",
+				"副标题": "pic-text text-right\">&&</b>",
+				"嗅探词": ".m3u8#.mp4#tos#video_mp4",
+				"搜索模式": "1",
+				"搜索url": "https://kankanju.cc/type/id-.html?wd={wd}",
+				"影片类型": "<div class=\"module-info-tag\">&&立即播放",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"简介": "introduction-content\">&&</span>",
+				"线路数组": "data-toggle=&&</li>",
+				"跳转播放链接": "https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"",
+				"线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]",
+				"分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
+				"分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"
+			}
+		},
         {
             "key": "土豪",
             "name": "解析-兔毫",
