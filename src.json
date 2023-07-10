@@ -24,8 +24,8 @@
             "key": "js豆瓣",
             "name": "豆瓣推荐",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-            "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js",
+			"api": "https://pan.shangui.cc/f/ZGdQTv/douban2.js",
+            "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js",
 			"searchable": 0,
             "quickSearch": 1,
             "filterable": 0
