@@ -30,15 +30,6 @@
 			"playerType": "1",
 			"ext": "http://xhww.fun:63/小米/源/奇优.json"
 		},
-		{
-            "key": "csp_DiDuan",
-            "name": "低端",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
         {
             "key": "yaya",
             "name": "️解析-鸭鸭",
@@ -357,24 +348,6 @@
 			"regex": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-			]
-		},
-		{
-			"name": "火山嗅探",
-			"hosts": [
-				"huoshan.com"
-			],
-			"regex": [
-				"item_id="
-			]
-		},
-		{
-			"name": "抖音嗅探",
-			"hosts": [
-				"douyin.com"
-			],
-			"regex": [
-				"is_play_url="
 			]
 		}
 	],
