@@ -1,0 +1,10 @@
+		{
+            "key": "js¶¹°ê",
+            "name": "¶¹°êÍÆ¼ö",
+            "type": 3,
+			"api": "./drpy.min.js",
+            "ext": "./drpy.js",
+			"searchable": 0,
+            "quickSearch": 1,
+            "filterable": 0
+        },
