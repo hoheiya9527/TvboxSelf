@@ -19,7 +19,7 @@
 			"api": "https://pan.shangui.cc/f/ZGdQTv/douban2.js",
             "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js",
 			"searchable": 0,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 0
         },
 		{
