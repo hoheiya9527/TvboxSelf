@@ -24,7 +24,7 @@
         },
 		{
             "key": "磁力",
-            "name": "荐片┃磁力",
+            "name": "磁力-荐片",
             "type": 3,
             "playerType": "1",
             "api": "http://xhww.fun:63/js/drpy1.min.js",
@@ -38,19 +38,6 @@
 			"playerType": "1",
 			"ext": "http://xhww.fun:63/小米/源/奇优.json"
 		},
-        {
-            "key": "yaya",
-            "name": "️解析-鸭鸭",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "分类url": "https://www.pipiya.cc/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;;lr",
-                "分类": "电影$20#连续剧$26#美剧$21#日韩$28#动漫$25"
-            }
-        },
 		{
 			"key": "看看",
 			"name": "解析-看看",
