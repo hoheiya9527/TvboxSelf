@@ -1,5 +1,5 @@
 {
-	"spider": "http://xhww.fun:63/小米/小暴脾气10.jar;md5;2045faa2c4337fd863c1b9f02cc69e31",
+	"spider": "http://xhww.fun:63/小米/0726.jar;md5;38828453396367c68f1d65512b128567",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "综合",
@@ -16,11 +16,19 @@
             "key": "豆豆",
             "name": "豆瓣推荐",
             "type": 3,
-			"api": "https://pan.shangui.cc/f/ZGdQTv/douban2.js",
-            "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js",
+			"api": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/douban_js_old/drpy.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/douban_js_old/drpy.js",
 			"searchable": 0,
             "quickSearch": 1,
             "filterable": 0
+        },
+		{
+            "key": "磁力",
+            "name": "荐片┃磁力",
+            "type": 3,
+            "playerType": "1",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
         },
 		{
 			"key": "奇优",
