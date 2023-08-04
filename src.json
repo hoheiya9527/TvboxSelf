@@ -35,6 +35,7 @@
 			"name": "解析-奇优",
 			"type": 3,
 			"api": "csp_XBPQ",
+			"jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
 			"playerType": "1",
 			"ext": "http://xhww.fun:63/小米/源/奇优.json"
 		},
@@ -42,6 +43,7 @@
 			"key": "看看",
 			"name": "解析-看看",
 			"type": 3,
+			"jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
 			"playerType": "1",
 			"changeable": 0,
 			"api": "csp_XBPQ",
