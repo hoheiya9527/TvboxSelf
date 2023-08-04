@@ -31,15 +31,6 @@
             "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
         },
 		{
-            "key": "csp_TT",
-            "name": "磁力-影探",
-            "type": 3,
-            "api": "csp_YT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-		{
 			"key": "奇优",
 			"name": "解析-奇优",
 			"type": 3,
