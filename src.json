@@ -1,5 +1,5 @@
 {
-	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/mi_0802.jar;md5;538304754b268f733245e29504f03254",
+	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/mi_0808.jar;md5;43d5af5fc45bbff83ae54e4f3fe703e5",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "综合",
@@ -156,7 +156,7 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
         }
     ],
-  "parses": [{
+	"parses": [{
 			"name": "聚合1",
 			"type": 3,
 			"url": "Demo"
@@ -169,7 +169,7 @@
 		{
 			"name": "小米🌾",
 			"type": 1,
-			"url": "http:/xhww.fun:63/爱小米.php?url=",
+			"url": "http:/xhww.fun:63/特别爱小米.php?url=",
 			"ext": {
 				"flag": [
 					"qiqi",
@@ -261,15 +261,6 @@
 			}
 		},
 		{
-			"name": "红红🥭",
-			"type": 1,
-			"url": "https://qq.396pay.cn/home/api?type=ys&uid=3927563&key=ainsuwyBDEFGNQS037&url=",
-			"flag": [
-				"JHA",
-				"JHB"
-			]
-		},
-		{
 			"name": "25芒果🥭",
 			"type": 1,
 			"url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
@@ -282,31 +273,13 @@
 			}
 		},
 		{
-			"name": "✌️夜曲",
+			"name": "🌽玉米",
 			"type": 1,
-			"url": "http://xhww.fun:63/小米特别爱肥猫.php?url=",
+			"url": "http://m3u8.lyyytv.cn/json.php?url=",
 			"ext": {
 				"flag": [
-					"mgtv",
-					"qiyi",
-					"imgo",
-					"爱奇艺",
-					"奇艺",
-					"qq",
-					"腾讯",
-					"youku",
-					"优酷",
-					"pptv",
-					"PPTV",
-					"letv",
-					"乐视",
-					"leshi",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩",
-					"mgtv",
-					"芒果",
-					"芒果"
+					"YT_4k",
+					"腾讯"
 				],
 				"header": {
 					"User-Agent": "okhttp/3.12.0"
@@ -314,7 +287,6 @@
 				}
 			}
 		}
-		
 	],
 	"doh": [{
 			"name": "Google",
