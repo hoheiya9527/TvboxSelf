@@ -18,7 +18,7 @@
             "type": 3,
 			"api": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/douban_js_old/drpy.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/douban_js_old/drpy.js",
-			"searchable": 0,
+			"searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
