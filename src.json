@@ -20,7 +20,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/douban_js_old/drpy.js",
 			"searchable": 0,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 1
         },
 		{
             "key": "磁力",
