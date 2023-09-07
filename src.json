@@ -25,7 +25,7 @@
 		"type": 3,
 		"playerType": "1",
 		"api": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/js/drpy1-ori.js",
-        "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
+        "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/js/jp.js"
 	},
 	{
 		"key": "零度",
