@@ -24,7 +24,7 @@
 		"name": "磁力-荐片",
 		"type": 3,
 		"playerType": "1",
-		"api": "http://xhww.fun:63/js/drpy1.min.js",
+		"api": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/js/drpy1-ori.js",
         "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
 	},
 	{
