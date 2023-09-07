@@ -24,7 +24,7 @@
 		"name": "磁力-荐片",
 		"type": 3,
 		"playerType": "1",
-		"api": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jianpian-dryp.js",
+		"api": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/js/jianpian-dryp.js",
 		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/js/jp.js"
 	},
 	{
