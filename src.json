@@ -31,7 +31,7 @@
 		"key": "零度",
 		"name": "解析-零度",
 		"type": 3,
-		"jar": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jars/广播迷.jar;c570b052645834a1109b54421c1552f9",
+		"jar": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jars/广播迷.jar;md5;c570b052645834a1109b54421c1552f9",
 		"api": "csp_XBPQ",
 		"playerType": "1",
 		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/json/tvb.json"
