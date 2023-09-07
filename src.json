@@ -1,5 +1,5 @@
 {
-	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/mi_0824.jar;md5;de0d7d8b7ef5c0d56aa0051e63aec89f",
+	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/mi_0906.jar;md5;f20b74480c058b1ff6236601f92d65a8",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "综合",
@@ -29,9 +29,9 @@
 	},
 	{
 		"key": "零度",
-		"name": "零度┃BPQ",
+		"name": "解析-零度",
 		"type": 3,
-		"jar": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jars/广播迷.jar",
+		"jar": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jars/广播迷.jar;c570b052645834a1109b54421c1552f9",
 		"api": "csp_XBPQ",
 		"playerType": "1",
 		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/json/tvb.json"
@@ -40,7 +40,7 @@
 		"key": "看看",
 		"name": "解析-看看",
 		"type": 3,
-		"jar": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jars/广播迷.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+		"jar": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jars/广播迷.jar;md5;c570b052645834a1109b54421c1552f9",
 		"playerType": "1",
 		"changeable": 0,
 		"api": "csp_XBPQ",
@@ -65,7 +65,7 @@
 		"key": "土豪",
 		"name": "解析-兔毫",
 		"type": 3,
-		"jar": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jars/广播迷.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+		"jar": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jars/广播迷.jar;md5;c570b052645834a1109b54421c1552f9",
 		"api": "csp_XBPQ",
 		"ext": {
 			"分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
@@ -89,7 +89,7 @@
 		"key": "滋滋",
 		"name": "解析-子子",
 		"type": 3,
-		"jar": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jars/广播迷.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+		"jar": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/mi/jars/广播迷.jar;md5;c570b052645834a1109b54421c1552f9",
 		"api": "csp_XBPQ",
 		"playerType": "1",
 		"ext": {
