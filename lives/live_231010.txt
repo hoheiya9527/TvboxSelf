@@ -17,8 +17,6 @@ CCTV-14,https://cntv.sbs/tv/v6.php?id=CCTV-14H265
 CCTV-15,https://cntv.sbs/tv/v6.php?id=CCTV-15-yyH265
 CCTV-16,https://cntv.sbs/tv/v6.php?id=CCTV-16
 CCTV-17,https://cntv.sbs/tv/v6.php?id=CCTV-17
-CCTV-4K,https://cntv.sbs/tv/v6.php?id=ys4Kcq_2000
-CCTV16-4K,https://cntv.sbs/tv/v6.php?id=CCTV-16-4K_8000
 
 港澳频道IPV6,#genre#
 凤凰中文,https://cntv.sbs/tv/v6.php?id=test1
@@ -68,6 +66,14 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 康巴卫视,https://cntv.sbs/tv/v6.php?id=kbwsH264_2000
 山东教育卫视,https://cntv.sbs/tv/v6.php?id=sdjy
 
+4K超清频道,#genre#
+CCTV-4K,https://cntv.sbs/tv?auth=231005&id=cctv4k
+CCTV-4K,https://cntv.sbs/tv/v6.php?id=ys4Kcq_2000
+CCTV16-4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
+CCTV16-4K,https://cntv.sbs/tv/v6.php?id=CCTV-16-4K_8000
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 央视,#genre#
 CCTV-1 综合,https://cntv.sbs/tv?auth=231005&id=cctv1
 CCTV-2 财经,https://cntv.sbs/tv?auth=231005&id=cctv2
@@ -87,8 +93,7 @@ CCTV-14 少儿,https://cntv.sbs/tv?auth=231005&id=cctv14
 CCTV-15 音乐,https://cntv.sbs/tv?auth=231005&id=cctv15
 CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=231005&id=cctv16
 CCTV-17 农业农村,https://cntv.sbs/tv?auth=231005&id=cctv17
-CCTV-4K 超高清,https://cntv.sbs/tv?auth=231005&id=cctv4k
-CCTV-16 4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
+
 
 卫视,#genre#
 北京卫视,https://cntv.sbs/tv?auth=231005&id=bjws
