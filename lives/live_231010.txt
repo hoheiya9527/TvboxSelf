@@ -68,6 +68,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 
 4K超清频道,#genre#
 CCTV-4K,https://cntv.sbs/tv?auth=231005&id=cctv4k
+CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV-4K,https://cntv.sbs/tv/v6.php?id=ys4Kcq_2000
 CCTV16-4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
 CCTV16-4K,https://cntv.sbs/tv/v6.php?id=CCTV-16-4K_8000
