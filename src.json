@@ -2,7 +2,7 @@
 	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_231014.jar;md5;5388d60fb0519fa359339c3252fa5e69",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
-		"name": "综合",
+		"name": "直播",
 		"type": 0,
 		"url": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/lives/live_231014.txt",
 		"playerType": 1,
