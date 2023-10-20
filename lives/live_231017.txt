@@ -26,6 +26,26 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+央视,#genre#
+CCTV-1 综合,https://cntv.sbs/tv?auth=2310201855&id=cctv1
+CCTV-2 财经,https://cntv.sbs/tv?auth=2310201855&id=cctv2
+CCTV-3 综艺,https://cntv.sbs/tv?auth=2310201855&id=cctv3
+CCTV-4 中文国际,https://cntv.sbs/tv?auth=2310201855&id=cctv4
+CCTV-5 体育,https://cntv.sbs/tv?auth=2310201855&id=cctv5
+CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=2310201855&id=cctv5p
+CCTV-6 电影,https://cntv.sbs/tv?auth=2310201855&id=cctv6
+CCTV-7 国防军事,https://cntv.sbs/tv?auth=2310201855&id=cctv7
+CCTV-8 电视剧,https://cntv.sbs/tv?auth=2310201855&id=cctv8
+CCTV-9 纪录,https://cntv.sbs/tv?auth=2310201855&id=cctv9
+CCTV-10 科教,https://cntv.sbs/tv?auth=2310201855&id=cctv10
+CCTV-11 戏曲,https://cntv.sbs/tv?auth=2310201855&id=cctv11
+CCTV-12 社会与法,https://cntv.sbs/tv?auth=2310201855&id=cctv12
+CCTV-13 新闻,https://cntv.sbs/tv?auth=2310201855&id=cctv13
+CCTV-14 少儿,https://cntv.sbs/tv?auth=2310201855&id=cctv14
+CCTV-15 音乐,https://cntv.sbs/tv?auth=2310201855&id=cctv15
+CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=2310201855&id=cctv16
+CCTV-17 农业农村,https://cntv.sbs/tv?auth=2310201855&id=cctv17
+
 卫视频道IPV6,#genre#
 内蒙古卫视,https://cntv.sbs/tv/v6.php?id=nmgws
 北京卫视,https://cntv.sbs/tv/v6.php?id=bjwsH265
