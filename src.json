@@ -31,7 +31,7 @@
 	},
 	{
 		"key": "加速",
-		"name": "",
+		"name": "解析-加速",
 		"type": 3,
 		"jar": "https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/ext/mi/jars/parser_240103.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 		"api": "csp_AppYsV2",
