@@ -1,5 +1,5 @@
 {
-	"spider": "https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/spider_backup/fan_240103.jar;md5;64110baeb9974690f7b374a8b2586ac5",
+	"spider": "https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/spider_backup/fan_240110.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -20,15 +20,15 @@
 		"filterable": 0
 	},
 	{
-		"key": "南坊",
-		"name": "解析-南坊",
-		"type": 3,
-		"api": "csp_AppMao",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
-	},
+      "key": "九六",
+      "name": "解析-九六",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 	{
 		"key": "加速",
 		"name": "解析-加速",
@@ -143,7 +143,7 @@
 		{
 			"name": "飞云🌾",
 			"type": 1,
-			"url": "http://122.228.84.103:7777/api/?key=XX84Rm4utDcfLT21tT&url=",
+			"url": "http://122.228.84.103:7777/api/?key=o9fQb0Jvz0qZzY19Jq&url=",
 			"ext": {
 				"flag": [
 					"FYNB",
@@ -175,14 +175,13 @@
 		{
 			"name": "亮亮🌾",
 			"type": 1,
-			"url": "https://m.jialiangos.com/jx/?url=",
+			"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
 			"ext": {
 				"flag": [
-					"K_JL",
-					"JIALIANGCODE"
+					"seven"
 				],
 				"header": {
-					"User-Agent": "okhttp/4.1.0"
+					"User-Agent": "Lavf/58.12.100"
 				}
 			}
 		},
@@ -205,8 +204,7 @@
 			"url": "http://122.228.84.103:5829/jx/?url=",
 			"ext": {
 				"flag": [
-					"seven",
-					"FYNB"
+					"seven"
 				],
 				"header": {
 					"User-Agent": "okhttp/4.1.0"
