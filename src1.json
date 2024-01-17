@@ -30,14 +30,14 @@
 		"changeable": 1
 	},
 	{
-		"key": "加速",
-		"name": "解析-加速",
+		"key": "南瓜",
+		"name": "解析-南瓜",
 		"type": 3,
-		"jar": "https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/ext/mi/jars/parser_240103.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-		"api": "csp_AppYsV2",
+		"api": "csp_NanGua",
+		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
-		"ext": "http://122.228.84.103:6117/api.php/app/"
+		"changeable": 1
 	},
 	{
 		"key": "荐片",
