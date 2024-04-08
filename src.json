@@ -7,8 +7,8 @@
 		"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 		"playerType": 1,
 		"ua": "okhttp/3.12.13",
-		"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo": "https://epg.112114.xyz/logo/{name}.png"
+		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://diyp2.112114.xyz/logo/{name}.png"
 	}],
 	"sites": [{
 		"key": "豆豆",
