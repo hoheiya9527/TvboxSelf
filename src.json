@@ -57,15 +57,15 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"playerType": "1",
-		"api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-		"ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+		"api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/jianpian/drpy2.min.js",
+		"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/jianpian/jianpian.js"
 	},
 	{
 		"key": "drpy_js_量子资源",
 		"name": "解析-量子",
 		"type": 3,
-		"api": "https://152.32.170.60/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-		"ext": "https://152.32.170.60/dxawi/ray/raw/branch/master/JS/js/量子资源.js"
+		"api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/liangzi/drpy2.min.js",
+		"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/liangzi/liangzi.js"
 	},
 	{
 		"key": "ikanbot3",
