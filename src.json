@@ -57,8 +57,8 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"playerType": "1",
-		"api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/jianpian/drpy_240513.js",
-		"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/jianpian/jp_240513.js"
+		"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+		"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
 	},
 	{
 		"key": "视觉",
