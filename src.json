@@ -1,5 +1,5 @@
 {
-	"spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/saoling_240327.jar",
+	"spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240513.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -57,22 +57,19 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"playerType": "1",
-		"api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/jianpian/drpy2.min.js",
-		"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/jianpian/jianpian.js"
+		"api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/jianpian/drpy_240513.js",
+		"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/jianpian/jp_240513.js"
 	},
 	{
-		"key": "drpy_js_量子资源",
-		"name": "解析-量子",
+		"key": "视觉",
+		"name": "解析-视觉",
 		"type": 3,
-		"api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/liangzi/drpy2.min.js",
-		"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/liangzi/liangzi.js"
-	},
-	{
-		"key": "ikanbot3",
-		"name": "解析-多线",
-		"type": 3,
-		"api": "https://152.32.170.60/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-		"ext": "https://152.32.170.60/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
+		"api": "csp_Xinsj",
+		"timeout": 15,
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"ext": "https://www.80yy3.com/"
 	},
 	{
 		"key": "csp_WoGG",
@@ -82,7 +79,13 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 0,
-		"ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+		"ext": {
+			"aliToken": "tvfan/token.txt",
+			"quarkCookie": "tvfan/cookie.txt",
+			"from": "4k|auto|fhd",
+			"siteUrl": "https://www.wogg.link/",
+			"danMu": "弹"
+		}
 	},
 	{
 		"key": "PanSearch",
@@ -92,83 +95,41 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 0,
-		"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
+		"ext": {
+			"aliToken": "tvfan/token.txt",
+			"from": "4k|auto|fhd"
+		}
 	}],
-	"rules": [{
-		"name": "kk",
-		"hosts": ["kuaikan"],
-		"regex": ["5",
-		"20.123",
-		"20.167",
-		"#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"]
+	"doh": [{
+		"name": "Google",
+		"url": "https://dns.google/dns-query",
+		"ips": ["8.8.4.4",
+		"8.8.8.8"]
 	},
 	{
-		"name": "yqk",
-		"hosts": ["yqk"],
-		"regex": ["18.4",
-		"15.1666",
-		"#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"]
+		"name": "Cloudflare",
+		"url": "https://cloudflare-dns.com/dns-query",
+		"ips": ["1.1.1.1",
+		"1.0.0.1",
+		"2606:4700:4700::1111",
+		"2606:4700:4700::1001"]
 	},
 	{
-		"name": "sn",
-		"hosts": ["suonizy"],
-		"regex": ["#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
-		"15.1666",
-		"15.2666",
-		"16.3333",
-		"15.266667"]
+		"name": "AdGuard",
+		"url": "https://dns.adguard.com/dns-query",
+		"ips": ["94.140.14.140",
+		"94.140.14.141"]
 	},
 	{
-		"name": "bf",
-		"hosts": ["bfzy"],
-		"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+		"name": "DNSWatch",
+		"url": "https://resolver2.dns.watch/dns-query",
+		"ips": ["84.200.69.80",
+		"84.200.70.40"]
 	},
 	{
-		"name": "xx",
-		"hosts": ["aws.ulivetv.net"],
-		"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
-	},
-	{
-		"name": "lz",
-		"hosts": ["vip.lz",
-		"hd.lz",
-		"v.cdnlz",
-		"yzzy1.play"],
-		"regex": ["18.5333",
-		"19.52",
-		"18.6666"]
-	},
-	{
-		"name": "ff",
-		"hosts": ["vip.ffzy",
-		"hd.ffzy",
-		"ffzy"],
-		"regex": ["25.0666",
-		"25.08",
-		"20.52",
-		"25.1",
-		"25.1999"]
-	},
-	{
-		"name": "hs",
-		"hosts": ["huoshan.com"],
-		"regex": ["item_id="]
-	},
-	{
-		"name": "dy",
-		"hosts": ["douyin.com"],
-		"regex": ["is_play_url="]
-	},
-	{
-		"name": "nm",
-		"hosts": ["toutiaovod.com"],
-		"regex": ["video/tos/cn"]
-	},
-	{
-		"name": "cl",
-		"hosts": ["magnet"],
-		"regex": ["最新",
-		"直播",
-		"更新"]
+		"name": "Quad9",
+		"url": "https://dns.quad9.net/dns-quer",
+		"ips": ["9.9.9.9",
+		"149.112.112.112"]
 	}]
 }
