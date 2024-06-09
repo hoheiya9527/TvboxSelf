@@ -1,5 +1,5 @@
 {
-	"spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240513.jar",
+	"spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240609.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -44,7 +44,7 @@
 		"type": 3,
 		"api": "csp_NanGua",
 		"timeout": 15,
-		"playerType": 2,
+		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1

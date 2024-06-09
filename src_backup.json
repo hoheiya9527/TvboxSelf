@@ -44,7 +44,7 @@
 		"type": 3,
 		"api": "csp_NanGua",
 		"timeout": 15,
-		"playerType": 2,
+		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
