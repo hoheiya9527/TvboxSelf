@@ -1,5 +1,5 @@
 {
-	"spider": "https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240609.jar",
+	"spider": "https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240624.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -69,7 +69,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1,
-		"ext": "https://www.80yy3.com/"
+		"ext": "https://www.6080yy3.com/"
 	},
 	{
 		"key": "csp_WoGG",
