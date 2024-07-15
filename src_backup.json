@@ -1,5 +1,5 @@
 {
-	"spider": "https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240624.jar",
+	"spider": "https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240715.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -18,6 +18,16 @@
 		"searchable": 0,
 		"quickSearch": 1,
 		"filterable": 0
+	},
+	{
+		"key": "文采",
+		"name": "解析-极影",
+		"type": 3,
+		"api": "csp_Jpys",
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1
 	},
 	{
 		"key": "快看",
@@ -69,7 +79,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1,
-		"ext": "https://www.6080yy3.com/"
+		"ext": "https://www.6080z.com/"
 	},
 	{
 		"key": "csp_WoGG",
@@ -80,9 +90,8 @@
 		"quickSearch": 1,
 		"changeable": 0,
 		"ext": {
-			"aliToken": "tvfan/token.txt",
-			"quarkCookie": "tvfan/cookie.txt",
-			"from": "4k|auto|fhd",
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto",
 			"siteUrl": "https://www.wogg.link/",
 			"danMu": "弹"
 		}
@@ -96,40 +105,8 @@
 		"quickSearch": 1,
 		"changeable": 0,
 		"ext": {
-			"aliToken": "tvfan/token.txt",
-			"from": "4k|auto|fhd"
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
 		}
-	}],
-	"doh": [{
-		"name": "Google",
-		"url": "https://dns.google/dns-query",
-		"ips": ["8.8.4.4",
-		"8.8.8.8"]
-	},
-	{
-		"name": "Cloudflare",
-		"url": "https://cloudflare-dns.com/dns-query",
-		"ips": ["1.1.1.1",
-		"1.0.0.1",
-		"2606:4700:4700::1111",
-		"2606:4700:4700::1001"]
-	},
-	{
-		"name": "AdGuard",
-		"url": "https://dns.adguard.com/dns-query",
-		"ips": ["94.140.14.140",
-		"94.140.14.141"]
-	},
-	{
-		"name": "DNSWatch",
-		"url": "https://resolver2.dns.watch/dns-query",
-		"ips": ["84.200.69.80",
-		"84.200.70.40"]
-	},
-	{
-		"name": "Quad9",
-		"url": "https://dns.quad9.net/dns-quer",
-		"ips": ["9.9.9.9",
-		"149.112.112.112"]
 	}]
 }
