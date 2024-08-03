@@ -1,5 +1,5 @@
 {
-	"spider": "https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240715.jar",
+	"spider": "https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240803.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -49,15 +49,13 @@
 		"changeable": 1
 	},
 	{
-		"key": "南瓜",
-		"name": "解析-南瓜",
+		"key": "小点",
+		"name": "解析-星岛",
 		"type": 3,
-		"api": "csp_NanGua",
-		"timeout": 15,
-		"playerType": 1,
+		"api": "csp_Appxdys",
 		"searchable": 1,
 		"quickSearch": 1,
-		"changeable": 1
+		"changeable": 0
 	},
 	{
 		"key": "荐片",
@@ -69,44 +67,5 @@
 		"playerType": "1",
 		"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
 		"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-	},
-	{
-		"key": "视觉",
-		"name": "解析-视觉",
-		"type": 3,
-		"api": "csp_Xinsj",
-		"timeout": 15,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"ext": "https://www.6080z.com/"
-	},
-	{
-		"key": "csp_WoGG",
-		"name": "云盘-玩偶",
-		"type": 3,
-		"api": "csp_WoGG",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 0,
-		"ext": {
-			"Cloud-drive": "tvfan/Cloud-drive.txt",
-			"from": "4k|auto",
-			"siteUrl": "https://www.wogg.link/",
-			"danMu": "弹"
-		}
-	},
-	{
-		"key": "PanSearch",
-		"name": "云盘-云查",
-		"type": 3,
-		"api": "csp_PanSearch",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 0,
-		"ext": {
-			"Cloud-drive": "tvfan/Cloud-drive.txt",
-			"from": "4k|auto"
-		}
 	}]
 }
