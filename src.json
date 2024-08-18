@@ -1,5 +1,5 @@
 {
-	"spider": "https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240803.jar",
+	"spider": "https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240818.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -24,7 +24,7 @@
 		"name": "解析-极影",
 		"type": 3,
 		"api": "csp_Jpys",
-		"playerType": 2,
+		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
