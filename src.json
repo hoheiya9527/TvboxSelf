@@ -53,15 +53,6 @@
 		"changeable": 1
 	},
 	{
-		"key": "小点",
-		"name": "解析-星岛",
-		"type": 3,
-		"api": "csp_Appxdys",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 0
-	},
-	{
 		"key": "荐片",
 		"name": "解析-荐片",
 		"type": 3,
