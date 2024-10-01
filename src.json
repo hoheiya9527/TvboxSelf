@@ -10,7 +10,7 @@
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://diyp2.112114.xyz/logo/{name}.png"
 	}],
-	"remove_string": "公众号|神秘的哥哥们|叨光荐影|WX|微信|分享",
+	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享",
 	"filter":"饭|4K",
 	"sites": [{
 		"key": "豆豆",
