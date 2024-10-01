@@ -1,5 +1,5 @@
 {
-	"spider": "https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_240907.jar",
+	"spider": "https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_241001.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -10,7 +10,7 @@
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://diyp2.112114.xyz/logo/{name}.png"
 	}],
-	"remove_string": "公众号|神秘的哥哥们|WX|微信|分享",
+	"remove_string": "公众号|神秘的哥哥们|叨光荐影|WX|微信|分享",
 	"filter":"饭|4K",
 	"sites": [{
 		"key": "豆豆",
@@ -32,11 +32,10 @@
 		"changeable": 1
 	},
 	{
-		"key": "快看",
-		"name": "解析-快看",
+		"key": "比特",
+		"name": "解析-比特",
 		"type": 3,
-		"api": "csp_Kkys",
-		"timeout": 15,
+		"api": "csp_Bttwoo",
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
@@ -46,12 +45,11 @@
 		"name": "解析-常常",
 		"type": 3,
 		"api": "csp_NewCz",
-		"timeout": 15,
 		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1,
-		"ext": "https://www.czys.pro/"
+		"ext": "https://www.czzy77.com/"
 	},
 	{
 		"key": "苹果",
