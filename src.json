@@ -32,15 +32,19 @@
 		"changeable": 1
 	},
 	{
-		"key": "厂长",
-		"name": "解析-常常",
+		"key": "玩偶",
+		"name": "云盘-玩偶",
 		"type": 3,
-		"api": "csp_NewCz",
-		"playerType": 1,
+		"api": "csp_WoGG",
 		"searchable": 1,
 		"quickSearch": 1,
-		"changeable": 1,
-		"ext": "https://www.czzy77.com/"
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto",
+			"siteUrl": "https://www.wogg.net/",
+			"danMu": "弹"
+		}
 	},
 	{
 		"key": "苹果",
