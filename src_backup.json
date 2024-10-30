@@ -32,8 +32,16 @@
 		"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/douban_js/douban.json"
 	},
 	{
+      "key": "Wexkoukou",
+      "name": "扣扣(备)",
+      "type": 3,
+      "api": "csp_Wexkoukou",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
 		"key": "Wexkoukou2",
-		"name": "扣扣",
+		"name": "扣扣(主)",
 		"type": 3,
 		"api": "csp_Wexkoukou2",
 		"searchable": 1,
