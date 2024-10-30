@@ -35,7 +35,7 @@
 		"key": "hipy_js_腾云驾雾[官]",
 		"name": "解析-TT",
 		"type": 3,
-		"api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/gg/gg_drpy2.min.js",
+		"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -47,21 +47,13 @@
 		"key": "guoguo",
 		"name": "解析-GG",
 		"type": 3,
-		"api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/gg/gg_drpy2.min.js",
+		"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"changeable": 0,
 		"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/gg/guoguo.js"
-	},
-	{
-		"key": "jp",
-		"name": "解析-荐片",
-		"api": "csp_Jianpian",
-		"type": 3,
-		"playerType": "1",
-		"ext": "http://api2.rinhome.com"
 	},
 	{
 		"key": "繁荣",
