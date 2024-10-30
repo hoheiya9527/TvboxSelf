@@ -32,10 +32,10 @@
 		"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/douban_js/douban.json"
 	},
 	{
-		"key": "tt",
+		"key": "hipy_js_腾云驾雾[官]",
 		"name": "解析-TT",
 		"type": 3,
-		"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+		"api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/gg/gg_drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -47,7 +47,7 @@
 		"key": "guoguo",
 		"name": "解析-GG",
 		"type": 3,
-		"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+		"api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/ext/js/gg/gg_drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
