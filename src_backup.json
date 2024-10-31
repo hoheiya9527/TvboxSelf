@@ -19,7 +19,7 @@
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://diyp2.112114.xyz/logo/{name}.png"
 	}],
-	"remove_string": "公众号|神秘的哥哥们|WX|微信|分享|小米",
+	"remove_string": "公众号|神秘的哥哥们|WX|微信|分享|小米|群：665981772",
 	"filter": "饭|4K",
 	"sites": [{
 		"key": "豆豆",
