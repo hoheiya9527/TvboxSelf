@@ -1,5 +1,5 @@
 {
-	"spider": "https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/spider_backup/fan_241030",
+	"spider": "https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/spider_backup/fan_241110",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -56,15 +56,14 @@
 		"changeable": 1
 	},
 	{
-		"key": "南瓜",
-		"name": "解析-南瓜",
+		"key": "木星",
+		"name": "解析-木星",
 		"type": 3,
-		"api": "csp_NanGua",
-		"timeout": 15,
-		"playerType": 1,
+		"api": "csp_AppSx",
 		"searchable": 1,
 		"quickSearch": 1,
-		"changeable": 1
+		"changeable": 1,
+		"ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
 	},
 	{
 		"key": "荐片",
@@ -74,7 +73,7 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"playerType": "1",
-		"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-		"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+		"api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+		"ext": "https://notabug.org/fantaiying/ext/raw/main/jp.js"
 	}]
 }
