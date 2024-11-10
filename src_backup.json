@@ -1,11 +1,11 @@
 {
-	"spider": "https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/spider_backup/xiaomi_1026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd",
+	"spider": "https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/spider_backup/xiaomi_1026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 	{
 		"name": "直播",
 		"type": 0,
-		"url": "https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/lives/live_parser.txt",
+		"url": "https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/lives/live_parser.txt",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -21,7 +21,7 @@
 		"searchable": 0,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/douban_js/douban.json"
+		"ext": "https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/douban_js/douban.json"
 	},
 	{
 		"key": "hipy_js_腾云驾雾[官]",
@@ -54,7 +54,7 @@
 		"api": "csp_Frong",
 		"playerType": 1,
 		"ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
-		"jar": "https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/spider_backup/fanrong.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
+		"jar": "https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/spider_backup/fanrong.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
 	},
 	{
 		"key": "csp_LiteApple",
