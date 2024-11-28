@@ -5,6 +5,15 @@
 	{
 		"name": "直播",
 		"type": 0,
+		"url": "hhttps://gh.llkk.cc/https://github.com/YanG-1989/m3u/blob/main/Gather.m3u",
+		"playerType": 1,
+		"ua": "okhttp/3.15",
+		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://diyp2.112114.xyz/logo/{name}.png"
+	},
+	{
+		"name": "直播Self",
+		"type": 0,
 		"url": "https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/lives/live_parser.txt",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
