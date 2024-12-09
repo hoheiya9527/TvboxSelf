@@ -1,8 +1,7 @@
 {
-	"spider": "https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/spider_backup/mi_241106;md5;3574bbe3de12181b1ef79c9938246aa6",
+	"spider": "https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/spider_backup/mi_241209;md5;0ff7e60497d8cbe92b5b318dd64b356a",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"lives": [
-	{
+	"lives": [{
 		"name": "直播",
 		"type": 0,
 		"url": "https://gh.llkk.cc/https://github.com/YanG-1989/m3u/blob/main/Gather.m3u",
@@ -36,7 +35,7 @@
 		"key": "hipy_js_腾云驾雾[官]",
 		"name": "解析-TT",
 		"type": 3,
-		"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+		"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -48,23 +47,13 @@
 		"key": "guoguo",
 		"name": "解析-GG",
 		"type": 3,
-		"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-		"playerType": 2,
+		"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"changeable": 0,
 		"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-	},
-	{
-		"key": "繁荣",
-		"name": "解析-繁荣",
-		"type": 3,
-		"api": "csp_Frong",
-		"playerType": 1,
-		"ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTd8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
-		"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
 	},
 	{
 		"key": "csp_LiteApple",
@@ -89,18 +78,29 @@
 		"ext": ""
 	},
 	{
+		"key": "荐片",
+		"name": "解析-荐片",
+		"api": "csp_Jianpian",
+		"type": 3,
+		"playerType": "1",
+		"ext": "http://api2.rinhome.com"
+	},
+	{
 		"key": "csp_wanou",
 		"name": "网盘-玩偶",
-		"api": "csp_Wogg",
 		"type": 3,
-		"searchable": 1,
-		"playerType": 1,
-		"timeout": 30,
+		"api": "csp_Wogg",
 		"changeable": 0,
+		"filterable": 1,
 		"ext": {
-			"site_urls": ["https://wogg.xxooo.cf/",
-			"https://www.wogg.bf/",
-			"https://www.wogg.net/"]
+			"site_urls": ["https://woggpan.333232.xyz/",
+			"https://wogg.xxooo.cf/",
+			"https://woggapi.888484.xyz/",
+			"https://www.wogg.net"],
+			"threadinfo": {
+				"chunksize": 450,
+				"threads": 10
+			}
 		}
 	},
 	{
@@ -121,9 +121,9 @@
 		"url": "Web"
 	},
 	{
-		"name": "4K解析",
+		"name": "解析1",
 		"type": 1,
-		"url": "",
+		"url": "https://www.mpanso.com/muou/qilin.php?url=",
 		"ext": {
 			"flag": ["qq",
 			"腾讯",
@@ -150,34 +150,7 @@
 	{
 		"name": "反弹",
 		"type": 1,
-		"url": "http://27.25.141.188:6688/api/?key=cc10901237ea968438714d7f0303986b&url=",
-		"ext": {
-			"flag": ["qq",
-			"腾讯",
-			"qiyi",
-			"爱奇艺",
-			"奇艺",
-			"youku",
-			"优酷",
-			"sohu",
-			"搜狐",
-			"letv",
-			"乐视",
-			"mgtv",
-			"芒果",
-			"tnmb",
-			"seven",
-			"bilibili",
-			"1905"],
-			"header": {
-				"User-Agent": "okhttp/4.9.1"
-			}
-		}
-	},
-	{
-		"name": "1080解析1",
-		"type": 1,
-		"url": "https://zy.qiaoji8.com/neibu.php?url=",
+		"url": "",
 		"ext": {
 			"flag": ["qq",
 			"腾讯",
@@ -204,7 +177,7 @@
 	{
 		"name": "1080解析",
 		"type": 1,
-		"url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
+		"url": "",
 		"ext": {
 			"flag": ["qq",
 			"腾讯",
