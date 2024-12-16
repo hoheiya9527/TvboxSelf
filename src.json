@@ -1,10 +1,10 @@
 {
-	"spider": "https://gitproxy.click/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_241209;md5;f115051a7d789c2baebb9309c14bddd2",
+	"spider": "https://fastgit.cc/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_241209;md5;f115051a7d789c2baebb9309c14bddd2",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://gitproxy.click/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+		"url": "https://fastgit.cc/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
 		"playerType": 1,
 		"ua": "okhttp/3.12.13",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
