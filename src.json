@@ -1,10 +1,10 @@
 {
-	"spider": "https://fastgit.cc/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_241209;md5;f115051a7d789c2baebb9309c14bddd2",
+	"spider": "https://ghpr.cc/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_241230;md5;9136a7f6aec51c5b18e911121774ab5f",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://fastgit.cc/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+		"url": "https://ghpr.cc/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
 		"playerType": 1,
 		"ua": "okhttp/3.12.13",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -47,6 +47,19 @@
 		}
 	},
 	{
+		"key": "UC",
+		"name": "云盘-UC",
+		"type": 3,
+		"api": "csp_UuSs",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	},
+	{
 		"key": "苹果",
 		"name": "解析-苹果",
 		"type": 3,
@@ -63,7 +76,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1,
-		"ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+		"ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
 	},
 	{
 		"key": "荐片",
