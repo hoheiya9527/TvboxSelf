@@ -4,7 +4,7 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://gh.llkk.cc/https://github.com/YanG-1989/m3u/blob/main/Gather.m3u",
+		"url": "http://tv.iill.top/m3u/Live",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
