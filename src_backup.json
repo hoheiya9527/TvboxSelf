@@ -4,7 +4,7 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://gh.llkk.cc/https://github.com/YanG-1989/m3u/blob/main/Gather.m3u",
+		"url": "https://ghpr.cc/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
