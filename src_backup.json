@@ -32,7 +32,7 @@
 		"ext": "https://gh.llkk.cc/https://github.com/hoheiya9527/TvboxSelf/blob/main/douban_js/douban.json"
 	},
 	{
-		"key": "csp_lianren",
+		"key": "csp_良人",
 		"name": "解析-良人",
 		"type": 3,
 		"searchable": 1,
@@ -41,7 +41,7 @@
 		"ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs"
 	},
 	{
-		"key": "csp_cat",
+		"key": "小猫",
 		"name": "解析-小猫",
 		"type": 3,
 		"quickSearch": 1,
