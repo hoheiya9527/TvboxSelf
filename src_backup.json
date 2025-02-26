@@ -32,6 +32,23 @@
 		"ext": "https://gh.llkk.cc/https://github.com/hoheiya9527/TvboxSelf/blob/main/douban_js/douban.json"
 	},
 	{
+		"key": "csp_lianren",
+		"name": "解析-良人",
+		"type": 3,
+		"searchable": 1,
+		"quickSearch": 1,
+		"api": "csp_AppGetV2",
+		"ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs"
+	},
+	{
+		"key": "csp_cat",
+		"name": "解析-小猫",
+		"type": 3,
+		"quickSearch": 1,
+		"api": "csp_AppGetV2",
+		"ext": "sHR2rlsfjI4L3t4RXQMkn35bf/1LEoRwqTXcrC7IQ0LqkJ9uquhjeheQXMJ/1jcyl7dTdYTs2tmJx3JQfbM+sLOHa3gv0n6rwfqf5gycuzU7dkNLItKvRFx3Cc438fy/s56XVJJZXZczLxopwnsmcYwYi1Ry6merfTK6wL78+y09P00Emc+qYY6cbo9/0p3aoyI75hXhhWfgk2fsdhl/CJ63tm0h5nu8u2sR6MVAG9bXBLHLiasPCrBhIBKlseXE"
+	},
+	{
 		"key": "csp_Gz360",
 		"name": "解析-瓜子",
 		"type": 3,
@@ -42,12 +59,6 @@
 		"name": "解析-苹果",
 		"type": 3,
 		"api": "csp_LiteApple"
-	},
-	{
-		"key": "csp_Jpys",
-		"name": "解析-极影",
-		"type": 3,
-		"api": "csp_Jpys"
 	}],
 	"parses": [{
 		"name": "Json聚合",
