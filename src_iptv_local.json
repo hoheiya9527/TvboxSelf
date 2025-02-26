@@ -16,7 +16,7 @@
 		"key": "豆豆",
 		"name": "豆瓣推荐",
 		"type": 3,
-		"api": "csp_DouDou",
+		"api": "csp_DouDouGuard",
 		"searchable": 0,
 		"quickSearch": 1,
 		"filterable": 0
