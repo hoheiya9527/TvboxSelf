@@ -32,14 +32,13 @@
 		"changeable": 1
 	},
 	{
-		"key": "神车",
-		"name": "解析-速呱",
+		"key": "比特",
+		"name": "解析-比特",
 		"type": 3,
-		"api": "csp_AppSxGuard",
+		"api": "csp_BttwooGuard",
 		"searchable": 1,
 		"quickSearch": 1,
-		"changeable": 1,
-		"ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
+		"changeable": 1
 	},
 	{
 		"key": "玩偶",
@@ -52,7 +51,8 @@
 		"ext": {
 			"Cloud-drive": "tvfan/Cloud-drive.txt",
 			"from": "4k|auto",
-			"siteUrl": "https://www.wogg.net/"
+			"siteUrl": "https://www.wogg.net/",
+			"danMu": "弹"
 		}
 	},
 	{
