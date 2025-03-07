@@ -56,6 +56,19 @@
 		}
 	},
 	{
+		"key": "抠搜",
+		"name": "云盘-抠搜",
+		"type": 3,
+		"api": "csp_KkSsGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	},
+	{
 		"key": "UC",
 		"name": "云盘-UC",
 		"type": 3,
@@ -77,16 +90,6 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
-	},
-	{
-		"key": "木星",
-		"name": "解析-木星",
-		"type": 3,
-		"api": "csp_AppSxGuard",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="
 	},
 	{
 		"key": "荐片",

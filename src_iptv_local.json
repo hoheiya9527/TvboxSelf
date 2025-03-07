@@ -1,5 +1,5 @@
 {
-	"spider": "https://ghpr.cc/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_250226;md5;c4701a89448cfd4b3840d57729772b3b",
+	"spider": "https://ghpr.cc/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_250308;md5;d7422c79ea5b4479c056b168cdaf95b0",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -32,6 +32,15 @@
 		"changeable": 1
 	},
 	{
+		"key": "比特",
+		"name": "解析-比特",
+		"type": 3,
+		"api": "csp_BttwooGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1
+	},
+	{
 		"key": "玩偶",
 		"name": "云盘-玩偶",
 		"type": 3,
@@ -47,6 +56,19 @@
 		}
 	},
 	{
+		"key": "抠搜",
+		"name": "云盘-抠搜",
+		"type": 3,
+		"api": "csp_KkSsGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	},
+	{
 		"key": "UC",
 		"name": "云盘-UC",
 		"type": 3,
@@ -57,7 +79,7 @@
 		"ext": {
 			"Cloud-drive": "tvfan/Cloud-drive.txt",
 			"from": "4k|auto",
-			"pturl": "http://tv.91muou.icu/|http://54271.fun/"
+			"pturl": "http://mo.91muou.icu/|http://54271.fun/|http://mo.666291.xyz/"
 		}
 	},
 	{
@@ -68,16 +90,6 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
-	},
-	{
-		"key": "木星",
-		"name": "解析-木星",
-		"type": 3,
-		"api": "csp_AppSxGuard",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="
 	},
 	{
 		"key": "荐片",
