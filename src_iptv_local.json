@@ -56,19 +56,6 @@
 		}
 	},
 	{
-		"key": "抠搜",
-		"name": "云盘-抠搜",
-		"type": 3,
-		"api": "csp_KkSsGuard",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 0,
-		"ext": {
-			"Cloud-drive": "tvfan/Cloud-drive.txt",
-			"from": "4k|auto"
-		}
-	},
-	{
 		"key": "UC",
 		"name": "云盘-UC",
 		"type": 3,
