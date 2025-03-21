@@ -1,10 +1,10 @@
 {
-	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/mi_250226;md5;cdc1485ea07ff1acfd9cd630fa11fc36",
+	"spider": "https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/mi_250226;md5;cdc1485ea07ff1acfd9cd630fa11fc36",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+		"url": "https://github.tbedu.top/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -13,7 +13,7 @@
 	{
 		"name": "直播Self",
 		"type": 0,
-		"url": "https://ghproxy.net/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/lives/live_parser.txt",
+		"url": "https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/lives/live_parser.txt",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -29,7 +29,7 @@
 		"searchable": 0,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/douban_js/douban.json"
+		"ext": "https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/douban_js/douban.json"
 	},
 	{
 		"key": "csp_良人",
