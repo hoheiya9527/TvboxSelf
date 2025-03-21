@@ -1,10 +1,10 @@
 {
-	"spider": "https://ghf.xn--eqrr82bzpe.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_250318;md5;dda5ab42b722f13761900308a6caff89",
+	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_250318;md5;dda5ab42b722f13761900308a6caff89",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://ghf.xn--eqrr82bzpe.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
+		"url": "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
 		"playerType": 1,
 		"ua": "okhttp/3.12.13",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -65,7 +65,7 @@
 		"changeable": 0,
 		"ext": {
 			"Cloud-drive": "tvfan/Cloud-drive.txt",
-			"from": "auto|4k",
+			"from": "auto|4k"
 		}
 	},
 	{
