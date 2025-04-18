@@ -53,7 +53,7 @@
 		"changeable": 0,
 		"ext": {
 			"Cloud-drive": "tvfan/Cloud-drive.txt",
-			"from": "auto|4k",
+			"from": "4k|auto",
 			"siteUrl": "https://www.wogg.com/",
 			"danMu": "弹"
 		}
