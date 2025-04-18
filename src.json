@@ -1,5 +1,5 @@
 {
-	"spider": "https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_250326;md5;54c3c5cd399274cfdbed01fd53e65fd4",
+	"spider": "https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_250415;md5;7472da5d5d66556654e08770042564ab",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -26,6 +26,7 @@
 		"name": "解析-极影",
 		"type": 3,
 		"api": "csp_JpysGuard",
+		"timeout": 10,
 		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -36,6 +37,7 @@
 		"name": "解析-比特",
 		"type": 3,
 		"api": "csp_BttwooGuard",
+		"timeout": 10,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
@@ -45,6 +47,7 @@
 		"name": "云盘-玩偶",
 		"type": 3,
 		"api": "csp_WoGGGuard",
+		"timeout": 30,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 0,
@@ -73,6 +76,7 @@
 		"name": "解析-白白",
 		"type": 3,
 		"api": "csp_SbaibaiGuard",
+		"timeout": 10,
 		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -83,6 +87,7 @@
 		"name": "解析-苹果",
 		"type": 3,
 		"api": "csp_LiteAppleGuard",
+		"timeout": 10,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
@@ -92,6 +97,7 @@
 		"name": "解析-荐片",
 		"type": 3,
 		"api": "csp_JPJGuard",
+		"timeout": 10,
 		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
