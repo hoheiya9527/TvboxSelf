@@ -4,7 +4,7 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "http://192.168.1.222:35455/tv.m3u",
+		"url": "https://fy.iptv1.ggff.net/?ip=192.168.1.222",
 		"playerType": 1,
 		"ua": "okhttp/3.12.13",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
