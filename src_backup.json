@@ -4,7 +4,7 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://github.proxy.class3.fun/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+		"url": "https://github.proxy.class3.fun/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
