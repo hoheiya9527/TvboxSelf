@@ -1,10 +1,10 @@
 {
-	"spider": "https://github.proxy.class3.fun/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_250415;md5;7472da5d5d66556654e08770042564ab",
+	"spider": "https://github.proxy.class3.fun/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_250508;md5;fc7b0752fe1f29b6c7a544e6af548599",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://fy.iptv1.ggff.net/?ip=192.168.1.222",
+		"url": "https://nptv.freetv.top/juhe.m3u",
 		"playerType": 1,
 		"ua": "okhttp/3.12.13",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
