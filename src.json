@@ -6,7 +6,7 @@
 		"type": 0,
 		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/mursor1985/LIVE/main/iptv.m3u",
 		"playerType": 1,
-		"ua": "okHttp/Mod-1.0.1",
+		"ua": "okhttp/3.12.13",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo": "https://live.fanmingming.com/tv/{name}.png"
 	}],
