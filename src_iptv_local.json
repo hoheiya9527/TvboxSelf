@@ -1,5 +1,5 @@
 {
-	"spider": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_250621;md5;9b4406d5c1de4d695db13d5f771a835a",
+	"spider": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_250811;md5;c62c307314178af8637480fcb2fe61f7",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
@@ -17,6 +17,7 @@
 		"name": "豆瓣推荐",
 		"type": 3,
 		"api": "csp_DouDouGuard",
+		"indexs": 1,
 		"searchable": 0,
 		"quickSearch": 1,
 		"filterable": 0
@@ -26,7 +27,7 @@
 		"name": "解析-极影",
 		"type": 3,
 		"api": "csp_JpysGuard",
-		"timeout": 10,
+		"timeout": 15,
 		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -37,7 +38,7 @@
 		"name": "解析-比特",
 		"type": 3,
 		"api": "csp_BttwooGuard",
-		"timeout": 10,
+		"timeout": 15,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
@@ -76,7 +77,7 @@
 		"name": "解析-白白",
 		"type": 3,
 		"api": "csp_SbaibaiGuard",
-		"timeout": 10,
+		"timeout": 15,
 		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -87,7 +88,7 @@
 		"name": "解析-苹果",
 		"type": 3,
 		"api": "csp_LiteAppleGuard",
-		"timeout": 10,
+		"timeout": 15,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
@@ -97,7 +98,7 @@
 		"name": "解析-荐片",
 		"type": 3,
 		"api": "csp_JPJGuard",
-		"timeout": 10,
+		"timeout": 15,
 		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
