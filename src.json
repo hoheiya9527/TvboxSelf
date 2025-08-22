@@ -12,7 +12,7 @@
 	}],
 	"livePlayHeaders":[{
 		"flag":["iptv"],
-		"header":{"User-Agent":"okHttp/Mod-1.0.1"}
+		"header":{"User-Agent":"okHttp/Mod-1.1.0"}
 	}],
 	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享",
 	"filter": "饭|4K|臻彩",
