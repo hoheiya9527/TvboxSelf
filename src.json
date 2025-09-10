@@ -4,15 +4,11 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/mursor1985/LIVE/main/iptv.m3u",
+		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TVChannelSearcher/main/Parser/result.txt",
 		"playerType": 1,
 		"ua": "okhttp/3.12.13",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo": "https://live.fanmingming.com/tv/{name}.png"
-	}],
-	"livePlayHeaders":[{
-		"flag":["iptv"],
-		"header":{"User-Agent":"okHttp/Mod-1.3.0.0"}
 	}],
 	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享",
 	"filter": "饭|4K|臻彩",

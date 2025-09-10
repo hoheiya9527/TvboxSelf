@@ -1,19 +1,20 @@
 {
 	"spider": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/mi_250226;md5;cdc1485ea07ff1acfd9cd630fa11fc36",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"lives": [{
-		"name": "直播Self",
+	"lives": [
+	{
+		"name": "直播",
 		"type": 0,
-		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TVChannelSearcher/main/Parser/result.txt",
+		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://diyp2.112114.xyz/logo/{name}.png"
 	},
 	{
-		"name": "直播",
+		"name": "直播Self",
 		"type": 0,
-		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TVChannelSearcher/main/Parser/result.txt",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
