@@ -1,11 +1,10 @@
 {
-	"spider": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/mi_250226;md5;cdc1485ea07ff1acfd9cd630fa11fc36",
+	"spider": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/mi_250918;md5;082895dc8e847c12719f6a0cc7591285",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"lives": [
-	{
+	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -20,7 +19,7 @@
 		"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://diyp2.112114.xyz/logo/{name}.png"
 	}],
-	"remove_string": "公众号|神秘的哥哥们|WX|微信|分享|小米|群：665981772|非官方群：1023808147",
+	"remove_string": "公众号|神秘的哥哥们|WX|微信|分享|小米|群：665981772|非官方群：1023808147|互助群：1023808147",
 	"filter": "饭|4K",
 	"sites": [{
 		"key": "豆豆",
@@ -30,35 +29,50 @@
 		"searchable": 0,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/douban_js/douban.json"
+		
 	},
 	{
-		"key": "csp_良人",
-		"name": "解析-良人",
-		"type": 3,
+		"key": "荐片",
+		"name": "解析-荐片",
+		"quickSearch": 0,
 		"searchable": 1,
-		"quickSearch": 1,
-		"api": "csp_AppGetV2",
-		"ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs"
+		"type": 3,
+		"api": "csp_Jianpian",
+		"style": {
+			"type": "rect",
+			"ratio": 1.333
+		},
+		"ext": "https://ev2089.zxbwv.com"
 	},
 	{
-		"key": "小猫",
-		"name": "解析-小猫",
+		"key": "追忆",
+		"name": "解析-追忆",
 		"type": 3,
-		"quickSearch": 1,
-		"api": "csp_AppGetV2",
-		"ext": "sHR2rlsfjI4L3t4RXQMkn35bf/1LEoRwqTXcrC7IQ0LqkJ9uquhjeheQXMJ/1jcyl7dTdYTs2tmJx3JQfbM+sLOHa3gv0n6rwfqf5gycuzU7dkNLItKvRFx3Cc438fy/s56XVJJZXZczLxopwnsmcYwYi1Ry6merfTK6wL78+y09P00Emc+qYY6cbo9/0p3aoyI75hXhhWfgk2fsdhl/CJ63tm0h5nu8u2sR6MVAG9bXBLHLiasPCrBhIBKlseXE"
+		"api": "csp_AppSy",
+		"quickSearch": 0,
+		"ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA=="
 	},
 	{
-		"key": "csp_Gz360",
-		"name": "解析-瓜子",
+		"key": "csp_Qiyou",
+		"name": "解析-奇优",
 		"type": 3,
-		"api": "csp_Gz360"
+		"api": "csp_Qiyou"
+	},
+	{
+		"key": "麻花",
+		"name": "解析-麻花",
+		"type": 3,
+		"quickSearch": 0,
+		"searchable": 1,
+		"api": "csp_AppQi",
+		"ext": "Koog6uPyOjHNZh8eY8CgUL+XGp1zR8d/K2NE9Ls6xomFfTe7rh08ey2nhTjFqhzZpFCRgo6Ts5zctBTL20Q0GTg9Ltmxj+3Mtu3MmCSyMrA="
 	},
 	{
 		"key": "csp_LiteApple",
 		"name": "解析-苹果",
 		"type": 3,
+		"searchable": 1,
+		"quickSearch": 0,
 		"api": "csp_LiteApple"
 	}],
 	"parses": [{
@@ -72,9 +86,22 @@
 		"url": "影视"
 	},
 	{
-		"name": "自用",
+		"name": "牛牛2",
 		"type": 1,
-		"url": ""
+		"url": "https://zy.qiaoji8.com/xiafan.php?url=",
+		"ext": {
+			"flag": ["QD4K",
+			"iyf",
+			"duanju",
+			"gzcj",
+			"GTV",
+			"GZYS",
+			"weggz",
+			"Ace"],
+			"header": {
+				"User-Agent": "okhttp/4.9.1"
+			}
+		}
 	},
 	{
 		"name": "8090g",
