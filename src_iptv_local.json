@@ -10,7 +10,7 @@
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo": "https://live.fanmingming.com/tv/{name}.png"
 	}],
-	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享",
+	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享|太硬",
 	"filter": "饭|4K|臻彩",
 	"sites": [{
 		"key": "豆豆",

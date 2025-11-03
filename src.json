@@ -14,7 +14,7 @@
 		"flag":["iptv"],
 		"header":{"User-Agent":"okHttp/Mod-1.4.0.0"}
 	}],
-	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享",
+	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享|太硬",
 	"filter": "饭|4K|臻彩",
 	"sites": [{
 		"key": "豆豆",
