@@ -4,15 +4,15 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://live.ottiptv.cc/iptv.m3u?userid=6078067004&sign=5b22aa0be0f062e3cb93300c78902a9a72853b905f2ab3018c707fe31f9a8f817f593ab076434e380aed0ef8da835281ba10a2c618f5b52e5c096929d25d8477f23f82d764ba41&auth_token=aaa5399c95cfc315a858334515953f7a",
+		"url": "https://live.ottiptv.cc/iptv.m3u?userid=6078067004&sign=cfd3a9c698e955e5ceb612206e6d89c31fc0e407a640de5909f45cf3d6b910dabf10ce790ba21bd063f460fd6eefcfabc9bd50871ff3b808386213d71d2a987221a340648a6324&auth_token=aaa5399c95cfc315a858334515953f7a",
 		"playerType": 1,
-		"ua": "okHttp/Mod-1.4.0.0",
+		"ua": "okHttp/Mod-1.5.0.0",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo": "https://live.fanmingming.com/tv/{name}.png"
 	}],
 	"livePlayHeaders":[{
 		"flag":["iptv"],
-		"header":{"User-Agent":"okHttp/Mod-1.4.0.0"}
+		"header":{"User-Agent":"okHttp/Mod-1.5.0.0"}
 	}],
 	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享|太硬",
 	"filter": "饭|4K|臻彩",
