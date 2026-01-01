@@ -4,7 +4,7 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/lives/iptv.m3u",
+		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/lives/iptv.m3u",
 		"playerType": 1,
 		"ua": "okHttp/Mod-1.5.0.0",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
