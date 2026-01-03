@@ -4,7 +4,7 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/lives/iptv.m3u",
+		"url": "https://live.ottiptv.cc/iptv.m3u?userid=6078067004&sign=cfd3a9c698e955e5ceb612206e6d89c31fc0e407a640de5909f45cf3d6b910dabf10ce790ba21bd063f460fd6eefcfabc9bd50871ff3b808386213d71d2a987221a340648a6324&auth_token=aaa5399c95cfc315a858334515953f7a",
 		"playerType": 1,
 		"ua": "okHttp/Mod-1.5.0.0",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
