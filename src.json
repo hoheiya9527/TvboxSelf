@@ -4,15 +4,15 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-        "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/lives/iptv.m3u",
+        "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
 		"playerType": 1,
-		"ua": "okHttp/Mod-1.5.0.0",
+		"ua": "bingcha/1.1(mianfeifenxiang)",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo": "https://live.fanmingming.com/tv/{name}.png"
 	}],
 	"livePlayHeaders":[{
-		"flag":["iptv"],
-		"header":{"User-Agent":"okHttp/Mod-1.5.0.0"}
+		"flag":["188766.xyz"],
+		"header":{"User-Agent":"bingcha/1.1(mianfeifenxiang)"}
 	}],
 	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享|太硬",
 	"filter": "饭|4K|臻彩",
