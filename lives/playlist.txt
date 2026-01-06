@@ -1,23 +1,23 @@
 央视频道		,		#genre#
-CCTV-1 综合	,		https://migu.188766.xyz/?migutoken=983e9f11d2c4154ddfba88273264e2c2&id=CCTV1&type=yy
-CCTV-2 财经	,		https://migu.188766.xyz/?migutoken=6181b629a913689dad1592e219bf0023&id=CCTV2&type=yy
-CCTV-3 综艺	,		https://migu.188766.xyz/?migutoken=43f4344357606644bd090575c7829337&id=CCTV3&type=yy
-CCTV-4 中文国际	,		https://migu.188766.xyz/?migutoken=5a62eec209f2f4fa8f4421599346cfaa&id=CCTV4&type=yy
-CCTV-5 体育	,		https://migu.188766.xyz/?migutoken=69eaca09f1e6b2b2797e4a4c2fe34233&id=CCTV5&type=yy
-CCTV-5+ 体育赛事	,		https://migu.188766.xyz/?migutoken=04f4dfedad9497278a0786dd87f38311&id=CCTV5p&type=yy
-CCTV-6 电影	,		https://migu.188766.xyz/?migutoken=ccf4f62b5fb0b9998e65c5453595d8bd&id=CCTV6&type=yy
-CCTV-7 国防军事	,		https://migu.188766.xyz/?migutoken=0878594d1daf10dc5c810be1b68f9d95&id=CCTV7&type=yy
-CCTV-8 电视剧	,		https://migu.188766.xyz/?migutoken=c899203e36e5a278cf9ae7e18260b762&id=CCTV8&type=yy
-CCTV-9 纪录	,		https://migu.188766.xyz/?migutoken=d677c38017eac0710844dbcee7e2f3bb&id=CCTV9&type=yy
-CCTV-10 科教	,		https://migu.188766.xyz/?migutoken=63aea3ad21bad2e478f88a1ff78cfcff&id=CCTV10&type=yy
-CCTV-11 戏曲	,		https://migu.188766.xyz/?migutoken=76f60a268ee95af412b067e1a7424db4&id=CCTV11&type=yy
-CCTV-12 社会与法	,		https://migu.188766.xyz/?migutoken=cb9b97258ece52ca4d2d5780f6ca25ab&id=CCTV12&type=yy
-CCTV-13 新闻	,		https://migu.188766.xyz/?migutoken=d3e42e17bfd3f98c47dceb857aa243f0&id=CCTV13&type=yy
-CCTV-14 少儿	,		https://migu.188766.xyz/?migutoken=f768ab0853e2e30c08005794598b66f6&id=CCTV14&type=yy
-CCTV-15 音乐	,		https://migu.188766.xyz/?migutoken=00817a7808836cc790dbdc17b18439a7&id=CCTV15&type=yy
-CCTV-17 农业农村	,		https://migu.188766.xyz/?migutoken=1881a68038bd394b34879118e9d53c27&id=CCTV17&type=yy
-CCTV-4 中文国际 欧洲	,		https://migu.188766.xyz/?migutoken=8c1df4798163667cb832f4cc144757d3&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV-4 中文国际 美洲	,		https://migu.188766.xyz/?migutoken=6ab980a1c93998f0665eb49bb9d7daac&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+CCTV-1综合	,		https://migu.188766.xyz/?migutoken=983e9f11d2c4154ddfba88273264e2c2&id=CCTV1&type=yy
+CCTV-2财经	,		https://migu.188766.xyz/?migutoken=6181b629a913689dad1592e219bf0023&id=CCTV2&type=yy
+CCTV-3综艺	,		https://migu.188766.xyz/?migutoken=43f4344357606644bd090575c7829337&id=CCTV3&type=yy
+CCTV-4中文国际	,		https://migu.188766.xyz/?migutoken=5a62eec209f2f4fa8f4421599346cfaa&id=CCTV4&type=yy
+CCTV-5体育	,		https://migu.188766.xyz/?migutoken=69eaca09f1e6b2b2797e4a4c2fe34233&id=CCTV5&type=yy
+CCTV-5+体育赛事	,		https://migu.188766.xyz/?migutoken=04f4dfedad9497278a0786dd87f38311&id=CCTV5p&type=yy
+CCTV-6电影	,		https://migu.188766.xyz/?migutoken=ccf4f62b5fb0b9998e65c5453595d8bd&id=CCTV6&type=yy
+CCTV-7国防军事	,		https://migu.188766.xyz/?migutoken=0878594d1daf10dc5c810be1b68f9d95&id=CCTV7&type=yy
+CCTV-8电视剧	,		https://migu.188766.xyz/?migutoken=c899203e36e5a278cf9ae7e18260b762&id=CCTV8&type=yy
+CCTV-9纪录	,		https://migu.188766.xyz/?migutoken=d677c38017eac0710844dbcee7e2f3bb&id=CCTV9&type=yy
+CCTV-10科教	,		https://migu.188766.xyz/?migutoken=63aea3ad21bad2e478f88a1ff78cfcff&id=CCTV10&type=yy
+CCTV-11戏曲	,		https://migu.188766.xyz/?migutoken=76f60a268ee95af412b067e1a7424db4&id=CCTV11&type=yy
+CCTV-12社会与法	,		https://migu.188766.xyz/?migutoken=cb9b97258ece52ca4d2d5780f6ca25ab&id=CCTV12&type=yy
+CCTV-13新闻	,		https://migu.188766.xyz/?migutoken=d3e42e17bfd3f98c47dceb857aa243f0&id=CCTV13&type=yy
+CCTV-14少儿	,		https://migu.188766.xyz/?migutoken=f768ab0853e2e30c08005794598b66f6&id=CCTV14&type=yy
+CCTV-15音乐	,		https://migu.188766.xyz/?migutoken=00817a7808836cc790dbdc17b18439a7&id=CCTV15&type=yy
+CCTV-17农业农村	,		https://migu.188766.xyz/?migutoken=1881a68038bd394b34879118e9d53c27&id=CCTV17&type=yy
+CCTV-4中文国际欧洲	,		https://migu.188766.xyz/?migutoken=8c1df4798163667cb832f4cc144757d3&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+CCTV-4中文国际美洲	,		https://migu.188766.xyz/?migutoken=6ab980a1c93998f0665eb49bb9d7daac&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 
 卫视频道		,		#genre#
 湖南卫视	,		https://migu.188766.xyz/?migutoken=1c6a39de1910a965411e7db8c3207658&id=hnws&type=sz
@@ -165,7 +165,7 @@ CETV-4	,		https://migu.188766.xyz/?migutoken=49f8d03f2926a516dc2870ad312356bf&id
 翡翠台4K	,		https://mgev.188766.xyz/?migutoken=609ca31308b7c5d97624f8df3b810a4d&id=hk_fct4k&type=dy
 无线新闻	,		https://mgev.188766.xyz/?migutoken=b467c7051f4208cfb4360c2c8b6b24e6&id=hk_wxxw&type=dy
 Now新闻台	,		https://mgev.188766.xyz/?migutoken=3422ae4ee5bd3e0d80c9974fbb5af38c&id=hk_now&type=dy
-TVB Plus	,		https://mgev.188766.xyz/?migutoken=7b3d9d7634e20ca8f889e7a9caed6997&id=hk_tvbp&type=dy
+TVBPlus	,		https://mgev.188766.xyz/?migutoken=7b3d9d7634e20ca8f889e7a9caed6997&id=hk_tvbp&type=dy
 明珠台	,		https://mgev.188766.xyz/?migutoken=e840a52aaf3dfe9fbac83f826bfce906&id=hk_mzt&type=dy
 TVB星河	,		https://mgev.188766.xyz/?migutoken=060ae47df6e5adff1c74672d2d44652c&id=hk_tvbxh&type=dy
 TVB功夫	,		https://mgev.188766.xyz/?migutoken=76099d310f023c3787e04606d35088cf&id=hk_yzwx&type=dy

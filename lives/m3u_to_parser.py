@@ -40,7 +40,7 @@ def main():
             
             if group_match and name_match:
                 group = group_match.group(1)
-                name = name_match.group(1)
+                name = name_match.group(1).replace(' ', '')  # 去除频道名称中的空格
                 
                 # 如果是新分组，添加分组标题
                 if group != current_group:
