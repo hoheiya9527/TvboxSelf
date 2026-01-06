@@ -7,6 +7,7 @@
         "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
 		"playerType": 1,
 		"ua": "bingcha/1.1(mianfeifenxiang)",
+		"epg": "http://127.0.0.1?ch={name}&date={date}",
 		"logo": "https://live.fanmingming.com/tv/{name}.png"
 	}],
 	"livePlayHeaders":[{
