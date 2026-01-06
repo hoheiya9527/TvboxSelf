@@ -4,14 +4,14 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-        "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/lives/playlist.m3u",
+        "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/lives/playlist.txt",
 		"playerType": 1,
 		"ua": "bingcha/1.1(mianfeifenxiang)",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo": "https://live.fanmingming.com/tv/{name}.png"
 	}],
 	"livePlayHeaders":[{
-		"flag":["188766.xyz"],
+		"flag":["lives"],
 		"header":{"User-Agent":"bingcha/1.1(mianfeifenxiang)"}
 	}],
 	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享|太硬",
