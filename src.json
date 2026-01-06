@@ -4,7 +4,7 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-        "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+        "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/lives/playlist.m3u",
 		"playerType": 1,
 		"ua": "bingcha/1.1(mianfeifenxiang)",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
