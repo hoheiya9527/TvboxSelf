@@ -1,7 +1,7 @@
 央视频道		,		#genre#
-CCTV-1综合	,		https://migu.188766.xyz/?migutoken=983e9f11d2c4154ddfba88273264e2c2&id=CCTV1&type=yy
-CCTV-2财经	,		https://migu.188766.xyz/?migutoken=6181b629a913689dad1592e219bf0023&id=CCTV2&type=yy
-CCTV-3综艺	,		https://migu.188766.xyz/?migutoken=43f4344357606644bd090575c7829337&id=CCTV3&type=yy
+CCTV-1	,		https://migu.188766.xyz/?migutoken=983e9f11d2c4154ddfba88273264e2c2&id=CCTV1&type=yy
+CCTV-2	,		https://migu.188766.xyz/?migutoken=6181b629a913689dad1592e219bf0023&id=CCTV2&type=yy
+CCTV-3	,		https://migu.188766.xyz/?migutoken=43f4344357606644bd090575c7829337&id=CCTV3&type=yy
 CCTV-4中文国际	,		https://migu.188766.xyz/?migutoken=5a62eec209f2f4fa8f4421599346cfaa&id=CCTV4&type=yy
 CCTV-5体育	,		https://migu.188766.xyz/?migutoken=69eaca09f1e6b2b2797e4a4c2fe34233&id=CCTV5&type=yy
 CCTV-5+体育赛事	,		https://migu.188766.xyz/?migutoken=04f4dfedad9497278a0786dd87f38311&id=CCTV5p&type=yy
