@@ -1,18 +1,18 @@
 {
-	"spider": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_251130;md5;403a59bd559cc36fe67544e5de66e774",
+	"spider": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_260112;md5;323e8b50197207b7fcccfa8a636da143",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-        "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+        "url": "https://bc.188766.xyz/?ip=",
 		"playerType": 1,
-		"ua": "bingcha/1.1(mianfeifenxiang)",
+		"ua": "bingcha/1.1",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo": "https://live.fanmingming.com/tv/{name}.png"
 	}],
 	"livePlayHeaders":[{
 		"flag":["188766.xyz"],
-		"header":{"User-Agent":"bingcha/1.1(mianfeifenxiang)"}
+		"header":{"User-Agent":"bingcha/1.1"}
 	}],
 	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享|太硬",
 	"filter": "饭|4K|臻彩",
@@ -31,7 +31,7 @@
 		"name": "解析-极影",
 		"type": 3,
 		"api": "csp_JpysGuard",
-		"timeout": 15,
+		"timeout": 10,
 		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -71,7 +71,7 @@
 		"name": "解析-苹果",
 		"type": 3,
 		"api": "csp_LiteAppleGuard",
-		"timeout": 15,
+		"timeout": 10,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
@@ -81,7 +81,7 @@
 		"name": "解析-荐片",
 		"type": 3,
 		"api": "csp_JPJGuard",
-		"timeout": 15,
+		"timeout": 10,
 		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
