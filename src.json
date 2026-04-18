@@ -12,7 +12,7 @@
 			"logo": "https://live.fanmingming.com/tv/{name}.png"
 		}
 	],
-	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享|太硬",
+	"remove_string": "公众号|神秘的哥哥们|叨观荐影|WX|微信|分享|太硬|弹幕",
 	"filter": "饭|4K|臻彩",
 	"sites": [
 		{
@@ -86,5 +86,14 @@
 			"quickSearch": 1,
 			"changeable": 0
 		}
-	]
+	],
+		"rules": [{
+		"name": "cdn.ryplay",
+		"hosts": ["cdn.ryplay"],
+		"regex": ["5.480000",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+		"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]
+	}]
 }
