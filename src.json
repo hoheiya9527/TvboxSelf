@@ -1,11 +1,11 @@
 {
-	"spider": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_260418;md5;927158dd12133ed25e056d3659a6b3ca",
+	"spider": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/spider_backup/fan_261002;md5;2cc088afa757ba8bafffcfbab4b73ccc",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 		{
 			"name": "直播",
 			"type": 0,
-			"url": "https://github.tbedu.top/https://github.com/Kimentanm/aptv/blob/master/m3u/iptv.m3u",
+			"url": "https://ghfile.geekertao.top/https://github.com/Kimentanm/aptv/blob/master/m3u/iptv.m3u",
 			"playerType": 1,
 			"ua": "okhttp/3.10.0",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -44,12 +44,9 @@
 			"timeout": 30,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 1,
 			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "auto|4k",
-				"siteUrl": "https://www.wogg.com/",
-				"danMu": "弹"
+				"Cloud-drive": "tvfan/Cloud-drive.txt"
 			}
 		},
 		{
@@ -61,9 +58,18 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "auto|4k"
+				"Cloud-drive": "tvfan/Cloud-drive.txt"
 			}
+		},
+		{
+			"key": "瓜子",
+			"name": "解析-瓜子",
+			"type": 3,
+			"api": "csp_AppgzGuard",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
 		},
 		{
 			"key": "糯米",
@@ -87,13 +93,24 @@
 			"changeable": 0
 		}
 	],
-		"rules": [{
-		"name": "cdn.ryplay",
-		"hosts": ["cdn.ryplay"],
-		"regex": ["5.480000",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
-		"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]
-	}]
+	"rules": [
+		{
+			"name": "cdn.ryplay",
+			"hosts": [
+				"cdn.ryplay"
+			],
+			"regex": [
+				"5.480000",
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+				"#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+			]
+		}
+	],
+	"hosts": [
+		"img1.wsyzy.org=fan.cloudflare.182682.xyz",
+		"fiizvfck.top=fan.cloudflare.182682.xyz",
+		"images.67c6c7a.com=fan.cloudflare.182682.xyz"
+	]
 }
